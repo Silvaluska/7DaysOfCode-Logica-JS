@@ -6,12 +6,14 @@
 }
 
 .numeros {
-    width: 23%;
+    width: 24%;
     display: inline-block;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
     font-size: 3em;
     border: 1px solid red;
+    border-radius: 0.2em;
     text-align: center;
-    margin: 0.5%;
     background: black;
     color: white;
 }
@@ -22,12 +24,14 @@
 }
 
 .operadores {
-    width: 23%;
+    width: 24%;
     display: inline-block;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
     font-size: 3em;
     border: 1px solid red;
+    border-radius: 0.2em;
     text-align: center;
-    margin: 0.5%;
     background: black;
     color: white;
 }
@@ -38,12 +42,14 @@
 }
 
 .funcoes {
-    width: 23%;
+    width: 24%;
     display: inline-block;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
     font-size: 3em;
     border: 1px solid red;
+    border-radius: 0.2em;
     text-align: center;
-    margin: 0.5%;
     background: black;
     color: white;
 }
@@ -54,7 +60,11 @@
 }
 
 .resposta {
-    width: 50%;
-    margin: auto;
+    width: 99%;
+    margin: 0.5%;
     border: 1px solid red;
+    border-radius: 0.2em;
+    font-size: 3em;
+    text-align: center;
+    color: white;
 }
