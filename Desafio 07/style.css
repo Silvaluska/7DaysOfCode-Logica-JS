@@ -62,6 +62,8 @@
 .resposta {
     width: 99%;
     margin: 0.5%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     border: 1px solid red;
     border-radius: 0.2em;
     font-size: 3em;
